@@ -1,0 +1,98 @@
+Inicializando UserHandle...
+Database encontrada
+usersAmount: 1
+lastId: 1
+Usuario #0 assistiu 0 video(s) e foi recuperado de data/0.db
+Inicializando VideoHandle...
+Database não encontrada
+Fazendo login: adm; adm
+Procurando Usuario: adm
+Resultado: 0
+Logado
+Fazendo login: adm; adm
+Procurando Usuario: adm
+Resultado: 0
+Logado
+Inserindo Video
+Nome: Registro 1
+Lenght: 0
+Year:2013
+Type: Movie
+Procurando Video: Registro 1
+Não encontrado
+Atualizando Info em data/vdb.db
+videosAmount: 1
+lastId: 1
+Video #0: Movie
+Inserindo Usuario
+Nome: Lince
+Password: lince
+Procurando Usuario: Lince
+Atualizando Info
+usersAmount: 2
+lastId: 2
+Atualizado em data/users.db
+Fazendo login: Lince; lince
+Procurando Usuario: Lince
+Resultado: 1
+Logado
+Procurando Video (id): 1
+Encontrado na posição: 0
+Procurando Video (id): 1
+Encontrado na posição: 0
+Fazendo login: Lince; lince
+Procurando Usuario: Lince
+Resultado: 1
+Logado
+Procurando Video (id): 1
+Encontrado na posição: 0
+Procurando Video (id): 1
+Encontrado na posição: 0
+Fazendo login: adm; adm
+Procurando Usuario: adm
+Resultado: 0
+Logado
+Inserindo Video
+Nome: Registro 2
+Lenght: 0
+Year:2013
+Type: Serie
+Procurando Video: Registro 2
+Não encontrado
+Atualizando Info em data/vdb.db
+videosAmount: 2
+lastId: 2
+Video #0: Movie
+Video #1: Serie
+Fazendo login: Lince; lince
+Procurando Usuario: Lince
+Resultado: 1
+Logado
+Procurando Video (id): 1
+Encontrado na posição: 0
+Procurando Video (id): 1
+Encontrado na posição: 0
+Procurando Video (id): 2
+Encontrado na posição: 1
+Atualizando Info
+usersAmount: 2
+lastId: 2
+Atualizado em data/users.db
+Salvando Usuarios
+Usuarios Salvos em data/users.db
+Usuario #0 assistiu 0 video(s) e foi salvo em data/0.db
+Salvado video #1 para usuario Lince
+Usuario #1 assistiu 1 video(s) e foi salvo em data/0.db
+Atualizando Info em data/vdb.db
+videosAmount: 2
+lastId: 2
+Video #0: Movie
+Video #1: Serie
+Salvando videos
+Salvando A Origem; tagA: 0
+Salvando Registro 2; tagA: 0
+Videos salvos em data/vdb.db
+Finalizando VideoHandle...
+Finalizando VideoHandle...
+Liberando video #0: A Origem
+Liberando video #1: Registro 2

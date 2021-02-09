@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1371324815 source:c:\users\fabricio\diversos\programação\gui_lpiitv\src\gui.cpp
+	"../include/gui.h"
+	"../include/defines.h"
+	"../include/global_functions.h"
+	<string.h>
+
+1371324568 c:\users\fabricio\diversos\programação\gui_lpiitv\include\gui.h
+	"defines.h"
+	<allegro.h>
+
+1371316325 c:\users\fabricio\diversos\programação\gui_lpiitv\include\defines.h
+
+1371324847 source:c:\users\fabricio\diversos\programação\gui_lpiitv\main.cpp
+	<allegro.h>
+	<string.h>
+	<stdio.h>
+	"include/gui.h"
+	"include/picturelist.h"
+	"include/global_functions.h"
+
+1371249485 source:c:\users\fabricio\diversos\programação\gui_lpiitv\src\picturelist.cpp
+	"../include/picturelist.h"
+	"../include/defines.h"
+	"../include/global_functions.h"
+
+1371173455 c:\users\fabricio\diversos\programação\gui_lpiitv\include\picturelist.h
+	<allegro.h>
+	"gui.h"
+
+1371268549 source:c:\users\fabricio\diversos\programação\gui_lpiitv\src\global_functions.cpp
+	"../include/global_functions.h"
+	<string.h>
+
+1371268560 c:\users\fabricio\diversos\programação\gui_lpiitv\include\global_functions.h
+	"defines.h"
+	"gui.h"
+
+1372343312 source:c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\src\global_functions.cpp
+	"../include/global_functions.h"
+	<string.h>
+
+1372042736 c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\include\global_functions.h
+	"defines.h"
+	"gui.h"
+
+1372061128 c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\include\defines.h
+
+1372286383 c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\include\gui.h
+	"defines.h"
+	<allegro.h>
+
+1372289087 source:c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\src\gui.cpp
+	"../include/gui.h"
+	"../include/defines.h"
+	"../include/global_functions.h"
+	<string.h>
+
+1372938785 source:c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\src\picturelist.cpp
+	"../include/picturelist.h"
+	"../include/defines.h"
+	"../include/global_functions.h"
+	<string.h>
+
+1372937399 c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\include\picturelist.h
+	<allegro.h>
+	"gui.h"
+
+1372341393 source:c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\main.cpp
+	<allegro.h>
+	<string.h>
+	<stdio.h>
+	"include/gui.h"
+	"include/picturelist.h"
+	"include/global_functions.h"
+	"include/usuario.h"
+	"include/video.h"
+	"include/lpiitv.h"
+
+1372159832 source:c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\src\lpiitv.cpp
+	"../include/lpiitv.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1372635999 c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\include\lpiitv.h
+	<allegro.h>
+	"usuario.h"
+	"video.h"
+	"defines.h"
+
+1372632322 c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\include\usuario.h
+	<string.h>
+	<stdio.h>
+	"defines.h"
+	"video.h"
+
+1372635508 c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\include\video.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"defines.h"
+
+1372632365 source:c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\src\usuario.cpp
+	"../include/usuario.h"
+	"../include/defines.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<allegro.h>
+
+1372906910 source:c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\src\video.cpp
+	"../include/video.h"
+	"../include/defines.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<allegro.h>
+
+1372938964 source:c:\users\fabricio\documents\faculdade\3 semestre\lp ii\gui_lpiitv\src\al_lpiitv.cpp
+	"../include/lpiitv.h"
+	"../include/gui.h"
+	"../include/picturelist.h"
+	"../include/global_functions.h"
+	<allegro.h>
+
+1373969592 source:c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\src\al_lpiitv.cpp
+	"../include/lpiitv.h"
+	"../include/gui.h"
+	"../include/picturelist.h"
+	"../include/global_functions.h"
+	<allegro.h>
+	<dirent.h>
+
+1373969494 c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\include\lpiitv.h
+	<allegro.h>
+	"usuario.h"
+	"video.h"
+	"defines.h"
+
+1372632322 c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\include\usuario.h
+	<string.h>
+	<stdio.h>
+	"defines.h"
+	"video.h"
+
+1373932938 c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\include\defines.h
+
+1372635508 c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\include\video.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"defines.h"
+
+1372286383 c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\include\gui.h
+	"defines.h"
+	<allegro.h>
+
+1372937399 c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\include\picturelist.h
+	<allegro.h>
+	"gui.h"
+
+1372042736 c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\include\global_functions.h
+	"defines.h"
+	"gui.h"
+
+1373246975 source:c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\src\global_functions.cpp
+	"../include/global_functions.h"
+	<string.h>
+
+1372289087 source:c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\src\gui.cpp
+	"../include/gui.h"
+	"../include/defines.h"
+	"../include/global_functions.h"
+	<string.h>
+
+1373933262 source:c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\src\lpiitv.cpp
+	"../include/lpiitv.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1373426012 source:c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\src\picturelist.cpp
+	"../include/picturelist.h"
+	"../include/defines.h"
+	"../include/global_functions.h"
+	<string.h>
+
+1372632365 source:c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\src\usuario.cpp
+	"../include/usuario.h"
+	"../include/defines.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<allegro.h>
+
+1372906910 source:c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\src\video.cpp
+	"../include/video.h"
+	"../include/defines.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<allegro.h>
+
+1372994157 source:c:\users\fabricio\google drive\faculdade\3 semestre\lp ii\gui_lpiitv\main.cpp
+	<allegro.h>
+	<string.h>
+	<stdio.h>
+	"include/gui.h"
+	"include/picturelist.h"
+	"include/global_functions.h"
+	"include/usuario.h"
+	"include/video.h"
+	"include/lpiitv.h"
+

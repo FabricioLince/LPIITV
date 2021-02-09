@@ -1,0 +1,31 @@
+Inicializando UserHandle...
+Database não encontrada
+Inicializando VideoHandle...
+Database não encontrada
+Inserindo Usuario
+Nome: adm
+Password: adm
+Procurando Usuario: adm
+Atualizando Info
+usersAmount: 1
+lastId: 1
+Atualizado em data/users.db
+Fazendo login: adme; adm
+Procurando Usuario: adme
+Resultado: -1
+Fazendo login: adme; adm
+Procurando Usuario: adme
+Resultado: -1
+Atualizando Info
+usersAmount: 1
+lastId: 1
+Atualizado em data/users.db
+Salvando Usuarios
+Usuarios Salvos em data/users.db
+Usuario #0 assistiu 0 video(s) e foi salvo em data/0.db
+Atualizando Info em data/vdb.db
+videosAmount: 0
+lastId: 0
+Salvando videos
+Finalizando VideoHandle...
+Finalizando VideoHandle...

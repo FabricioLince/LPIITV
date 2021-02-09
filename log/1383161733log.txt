@@ -1,0 +1,24 @@
+Inicializando UserHandle...
+Database encontrada
+usersAmount: 1
+lastId: 1
+Usuario #0 assistiu 0 video(s) e foi recuperado de data/0.db
+Inicializando VideoHandle...
+Database não encontrada
+Fazendo login: adm; adm
+Procurando Usuario: adm
+Resultado: 0
+Logado
+Atualizando Info
+usersAmount: 1
+lastId: 1
+Atualizado em data/users.db
+Salvando Usuarios
+Usuarios Salvos em data/users.db
+Usuario #0 assistiu 0 video(s) e foi salvo em data/0.db
+Atualizando Info em data/vdb.db
+videosAmount: 0
+lastId: 0
+Salvando videos
+Finalizando VideoHandle...
+Finalizando VideoHandle...

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="include\defines.h" open="1" top="1" tabpos="6">
+		<Cursor position="1762" topLine="41" />
+	</File>
+	<File name="include\global_functions.h" open="0" top="0" tabpos="0">
+		<Cursor position="176" topLine="0" />
+	</File>
+	<File name="include\gui.h" open="0" top="0" tabpos="6">
+		<Cursor position="1111" topLine="2" />
+	</File>
+	<File name="include\lpiitv.h" open="1" top="0" tabpos="7">
+		<Cursor position="1419" topLine="46" />
+	</File>
+	<File name="include\picturelist.h" open="0" top="0" tabpos="2">
+		<Cursor position="1403" topLine="57" />
+	</File>
+	<File name="include\usuario.h" open="0" top="0" tabpos="1">
+		<Cursor position="713" topLine="21" />
+	</File>
+	<File name="include\video.h" open="0" top="0" tabpos="3">
+		<Cursor position="1285" topLine="45" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="831" topLine="19" />
+	</File>
+	<File name="src\al_lpiitv.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="14597" topLine="340" />
+	</File>
+	<File name="src\global_functions.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="293" topLine="0" />
+	</File>
+	<File name="src\gui.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="4765" topLine="51" />
+	</File>
+	<File name="src\lpiitv.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="2074" topLine="30" />
+	</File>
+	<File name="src\picturelist.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="2101" topLine="47" />
+	</File>
+	<File name="src\usuario.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="2943" topLine="120" />
+	</File>
+	<File name="src\video.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="3093" topLine="60" />
+	</File>
+</CodeBlocks_layout_file>
